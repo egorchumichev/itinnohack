@@ -1,6 +1,7 @@
 {
   "name": "itinnohack",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
     "start": "next start",
     "develop": "next dev",
